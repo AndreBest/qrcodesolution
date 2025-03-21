@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/qr-code-component-solution-9qqBAiHV0F)
 - Live Site URL: [Live URL](http://andrei.loveslife.biz/qr)
 
 ### Built with
